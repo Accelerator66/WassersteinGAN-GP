@@ -12,10 +12,10 @@ Pytorch implement of Wasserstein GAN-GP
 ## Result
 
 <p align="center">
-	<img src="https://github.com/Accelerator66/Wasserstein-GAN-GP/images/samples.png">
+	<img src="https://github.com/Accelerator66/WassersteinGANGP/blob/master/images/samples.png">
 	<br>Generated samples<br><br>
-	<img src="https://github.com/Accelerator66/Wasserstein-GAN-GP/images/DLoss.png">
+	<img src="https://github.com/Accelerator66/WassersteinGANGP/blob/master/images/DLoss.png">
 	<br>Discriminator Loss<br><br>
-	<img src="https://github.com/Accelerator66/Wasserstein-GAN-GP/images/GLoss.png">
+	<img src="https://github.com/Accelerator66/WassersteinGANGP/blob/master/images/GLoss.png">
 	<br>Generator Loss<br><br>
 </p>
