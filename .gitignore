@@ -101,9 +101,9 @@ venv.bak/
 /site
 
 # mypy
-.mypy_cache/
-.dataset/
-.cache/
-.notebook/
-.model/
+dataset/
+cache/
+notebook/
+model/
 .idea/
+demo/
